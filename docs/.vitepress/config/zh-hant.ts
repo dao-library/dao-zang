@@ -1,4 +1,5 @@
 import { DefaultTheme, defineConfig } from "vitepress";
+import { sidebarAll } from "./shared";
 
 export const zhhant = defineConfig({
     lang: 'zh-Hant',
@@ -16,51 +17,3 @@ export const zhhant = defineConfig({
         },
     }
 });
-function sidebarAll(): DefaultTheme.SidebarItem[] {
-    return [
-        {
-            text: '简介',
-            link: '/index'
-        },
-        {
-            text: '洞神部',
-            collapsed: true,
-            items: [
-                {
-                    text: '本文类',
-                    collapsed: true,
-                    items: [
-                        { text: '冲虚至德真经', link: 'dongshenbu/benwenlei/chongxuzhidezhenjing' }
-                    ]
-                },
-                {
-                    text: '表奏类',
-                    collapsed: true,
-                    items: [
-                        { text: '冲虚至德真经', link: 'dongshenbu/benwenlei/chongxuzhidezhenjing' }
-                    ]
-                }
-            ]
-        },
-        {
-            text: '洞玄部',
-            collapsed: true,
-            items: [
-                {
-                    text: '本文类',
-                    collapsed: true,
-                    items: [
-                        { text: '冲虚至德真经', link: 'dongshenbu/benwenlei/chongxuzhidezhenjing' }
-                    ]
-                },
-                {
-                    text: '表奏类',
-                    collapsed: true,
-                    items: [
-                        { text: '冲虚至德真经', link: 'dongshenbu/benwenlei/chongxuzhidezhenjing' }
-                    ]
-                }
-            ]
-        }
-    ];
-}
