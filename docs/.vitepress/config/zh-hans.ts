@@ -12,7 +12,7 @@ export const zhhans = defineConfig({
             next: '下一页'
         },
         outline: {
-            level: [1,2],
+            level: [1,6],
             label: '页面导航'
         },
     }

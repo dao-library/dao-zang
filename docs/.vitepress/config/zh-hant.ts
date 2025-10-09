@@ -12,7 +12,7 @@ export const zhhant = defineConfig({
             next: '下一頁'
         },
         outline: {
-            level: [1,2],
+            level: [1,6],
             label: '頁面導航'
         },
     }
