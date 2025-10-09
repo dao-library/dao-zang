@@ -2,6 +2,7 @@ import { DefaultTheme, defineConfig } from "vitepress";
 
 export const shared = defineConfig({
     title: "正统道藏",
+    base: "/dao-zang/",
     description: "Dao Zang",
     themeConfig: {
       socialLinks: [
