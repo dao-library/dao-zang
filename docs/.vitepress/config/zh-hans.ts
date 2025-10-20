@@ -1,5 +1,6 @@
 import { DefaultTheme, defineConfig } from "vitepress";
 import { sidebarAll } from "./shared";
+import footnote from 'markdown-it-footnote'
 
 export const zhhans = defineConfig({
     lang: 'zh-Hans',
@@ -12,7 +13,7 @@ export const zhhans = defineConfig({
             next: '下一页'
         },
         outline: {
-            level: [1,6],
+            level: [2,6],
             label: '页面导航'
         },
     }

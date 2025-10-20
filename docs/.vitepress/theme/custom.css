@@ -1,3 +1,6 @@
 .VPDoc .content p {
     text-indent: 2em;
 }
+.VPDoc .content p.no-indent {
+    text-indent: 0;
+}

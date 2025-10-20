@@ -1,11 +1,23 @@
 import { defineConfig } from 'vitepress'
-import { shared } from './config/shared'
-import { zhhans} from './config/zh-hans'
-import { zhhant} from './config/zh-hant'
+import { zhhans } from './config/zh-hans'
+import { zhhant } from './config/zh-hant'
+import footnote from 'markdown-it-footnote'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  ...shared, 
+  title: "正统道藏",
+  base: "/dao-zang/",
+  description: "Dao Zang",
+  markdown: {
+    config: (md) => {
+      md.use(footnote)
+    }
+  },
+  themeConfig: {
+    socialLinks: [
+      { icon: 'github', link: 'https://github.com/dao-library/dao-zang' }
+    ]
+  },
   locales: {
     root: {
       label: '简体中文',
