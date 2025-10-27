@@ -121,34 +121,9 @@ export function sidebarAll(): DefaultTheme.SidebarItem[] {
               "link": "洞神部/本文类/太上洞神三元妙本福寿真经"
             },
             {
-              "text": "太上内丹守一真定经",
+              "text": "太上洞神天公消魔护国经",
               "collapsed": true,
-              "link": "洞神部/本文类/太上内丹守一真定经"
-            },
-            {
-              "text": "太上化道度世仙经",
-              "collapsed": true,
-              "link": "洞神部/本文类/太上化道度世仙经"
-            },
-            {
-              "text": "太上太清天童护命妙经",
-              "collapsed": true,
-              "link": "洞神部/本文类/太上太清天童护命妙经"
-            },
-            {
-              "text": "太上妙始经",
-              "collapsed": true,
-              "link": "洞神部/本文类/太上妙始经"
-            },
-            {
-              "text": "太上日月混元经-五代-李光玄",
-              "collapsed": true,
-              "link": "洞神部/本文类/太上日月混元经-五代-李光玄"
-            },
-            {
-              "text": "太上泰清皇老帝君运雷天童隐梵仙经",
-              "collapsed": true,
-              "link": "洞神部/本文类/太上泰清皇老帝君运雷天童隐梵仙经"
+              "link": "洞神部/本文类/太上洞神天公消魔护国经"
             },
             {
               "text": "太上洞神五星诸宿日月混常经",
@@ -156,9 +131,164 @@ export function sidebarAll(): DefaultTheme.SidebarItem[] {
               "link": "洞神部/本文类/太上洞神五星诸宿日月混常经"
             },
             {
+              "text": "太上飞步南斗太微玉经",
+              "collapsed": true,
+              "link": "洞神部/本文类/太上飞步南斗太微玉经"
+            },
+            {
+              "text": "太上飞步五星经",
+              "collapsed": true,
+              "link": "洞神部/本文类/太上飞步五星经"
+            },
+            {
               "text": "太上浩元经",
               "collapsed": true,
               "link": "洞神部/本文类/太上浩元经"
+            },
+            {
+              "text": "太上化道度世仙经",
+              "collapsed": true,
+              "link": "洞神部/本文类/太上化道度世仙经"
+            },
+            {
+              "text": "太上老君内丹经",
+              "collapsed": true,
+              "link": "洞神部/本文类/太上老君内丹经"
+            },
+            {
+              "text": "太上老君内观经",
+              "collapsed": true,
+              "link": "洞神部/本文类/太上老君内观经"
+            },
+            {
+              "text": "太上老君内日用妙经",
+              "collapsed": true,
+              "link": "洞神部/本文类/太上老君内日用妙经"
+            },
+            {
+              "text": "太上老君说安宅八阳经",
+              "collapsed": true,
+              "link": "洞神部/本文类/太上老君说安宅八阳经"
+            },
+            {
+              "text": "太上老君说报父母恩重经",
+              "collapsed": true,
+              "link": "洞神部/本文类/太上老君说报父母恩重经"
+            },
+            {
+              "text": "太上老君说补谢八阳经",
+              "collapsed": true,
+              "link": "洞神部/本文类/太上老君说补谢八阳经"
+            },
+            {
+              "text": "太上老君说常清静妙经",
+              "collapsed": true,
+              "link": "洞神部/本文类/太上老君说常清静妙经"
+            },
+            {
+              "text": "太上老君说解释咒诅经",
+              "collapsed": true,
+              "link": "洞神部/本文类/太上老君说解释咒诅经"
+            },
+            {
+              "text": "太上老君说救生真经",
+              "collapsed": true,
+              "link": "洞神部/本文类/太上老君说救生真经"
+            },
+            {
+              "text": "太上老君说了心经",
+              "collapsed": true,
+              "link": "洞神部/本文类/太上老君说了心经"
+            },
+            {
+              "text": "太上老君说天妃救苦灵验经",
+              "collapsed": true,
+              "link": "洞神部/本文类/太上老君说天妃救苦灵验经"
+            },
+            {
+              "text": "太上老君说五斗金章受生经",
+              "collapsed": true,
+              "link": "洞神部/本文类/太上老君说五斗金章受生经"
+            },
+            {
+              "text": "太上老君说消灾经",
+              "collapsed": true,
+              "link": "洞神部/本文类/太上老君说消灾经"
+            },
+            {
+              "text": "太上老君说长生益算妙经",
+              "collapsed": true,
+              "link": "洞神部/本文类/太上老君说长生益算妙经"
+            },
+            {
+              "text": "太上老君外日用妙经",
+              "collapsed": true,
+              "link": "洞神部/本文类/太上老君外日用妙经"
+            },
+            {
+              "text": "太上妙始经",
+              "collapsed": true,
+              "link": "洞神部/本文类/太上妙始经"
+            },
+            {
+              "text": "太上内丹守一真定经",
+              "collapsed": true,
+              "link": "洞神部/本文类/太上内丹守一真定经"
+            },
+            {
+              "text": "太上日月混元经-五代-李光玄",
+              "collapsed": true,
+              "link": "洞神部/本文类/太上日月混元经-五代-李光玄"
+            },
+            {
+              "text": "太上说东斗主算护命妙经",
+              "collapsed": true,
+              "link": "洞神部/本文类/太上说东斗主算护命妙经"
+            },
+            {
+              "text": "太上说轮转五道宿命因缘经",
+              "collapsed": true,
+              "link": "洞神部/本文类/太上说轮转五道宿命因缘经"
+            },
+            {
+              "text": "太上说南斗六司延寿度人妙经",
+              "collapsed": true,
+              "link": "洞神部/本文类/太上说南斗六司延寿度人妙经"
+            },
+            {
+              "text": "太上说十炼生神救护经",
+              "collapsed": true,
+              "link": "洞神部/本文类/太上说十炼生神救护经"
+            },
+            {
+              "text": "太上说西斗记名护身妙经",
+              "collapsed": true,
+              "link": "洞神部/本文类/太上说西斗记名护身妙经"
+            },
+            {
+              "text": "太上说中斗大魁保命妙经",
+              "collapsed": true,
+              "link": "洞神部/本文类/太上说中斗大魁保命妙经"
+            },
+            {
+              "text": "太上说中斗大魁掌算伏魔神咒经",
+              "collapsed": true,
+              "link": "洞神部/本文类/太上说中斗大魁掌算伏魔神咒经"
+            },
+            {
+              "text": "太上说紫微神兵护国消魔经",
+              "collapsed": true,
+              "link": "洞神部/本文类/太上说紫微神兵护国消魔经"
+            },
+            {
+              "text": "太上太清天童护命妙经",
+              "collapsed": true,
+              "link": "洞神部/本文类/太上太清天童护命妙经"
+            },
+            {
+              "text": "太上泰清皇老帝君运雷天童隐梵仙经",
+              "collapsed": true,
+              "link": "洞神部/本文类/太上泰清皇老帝君运雷天童隐梵仙经"
             },
             {
               "text": "太上玄灵北斗本命延生真经",
@@ -176,144 +306,19 @@ export function sidebarAll(): DefaultTheme.SidebarItem[] {
               "link": "洞神部/本文类/太上玄灵斗姆大圣元君本命延生心经"
             },
             {
-              "text": "太上老君内丹经",
-              "collapsed": true,
-              "link": "洞神部/本文类/太上老君内丹经"
-            },
-            {
-              "text": "太上老君内日用妙经",
-              "collapsed": true,
-              "link": "洞神部/本文类/太上老君内日用妙经"
-            },
-            {
-              "text": "太上老君内观经",
-              "collapsed": true,
-              "link": "洞神部/本文类/太上老君内观经"
-            },
-            {
-              "text": "太上老君外日用妙经",
-              "collapsed": true,
-              "link": "洞神部/本文类/太上老君外日用妙经"
-            },
-            {
-              "text": "太上老君说了心经",
-              "collapsed": true,
-              "link": "洞神部/本文类/太上老君说了心经"
-            },
-            {
-              "text": "太上老君说五斗金章受生经",
-              "collapsed": true,
-              "link": "洞神部/本文类/太上老君说五斗金章受生经"
-            },
-            {
-              "text": "太上老君说天妃救苦灵验经",
-              "collapsed": true,
-              "link": "洞神部/本文类/太上老君说天妃救苦灵验经"
-            },
-            {
-              "text": "太上老君说安宅八阳经",
-              "collapsed": true,
-              "link": "洞神部/本文类/太上老君说安宅八阳经"
-            },
-            {
-              "text": "太上老君说常清静妙经",
-              "collapsed": true,
-              "link": "洞神部/本文类/太上老君说常清静妙经"
-            },
-            {
-              "text": "太上老君说报父母恩重经",
-              "collapsed": true,
-              "link": "洞神部/本文类/太上老君说报父母恩重经"
-            },
-            {
-              "text": "太上老君说救生真经",
-              "collapsed": true,
-              "link": "洞神部/本文类/太上老君说救生真经"
-            },
-            {
-              "text": "太上老君说消灾经",
-              "collapsed": true,
-              "link": "洞神部/本文类/太上老君说消灾经"
-            },
-            {
-              "text": "太上老君说补谢八阳经",
-              "collapsed": true,
-              "link": "洞神部/本文类/太上老君说补谢八阳经"
-            },
-            {
-              "text": "太上老君说解释咒诅经",
-              "collapsed": true,
-              "link": "洞神部/本文类/太上老君说解释咒诅经"
-            },
-            {
-              "text": "太上老君说长生益算妙经",
-              "collapsed": true,
-              "link": "洞神部/本文类/太上老君说长生益算妙经"
-            },
-            {
-              "text": "太上说东斗主算护命妙经",
-              "collapsed": true,
-              "link": "洞神部/本文类/太上说东斗主算护命妙经"
-            },
-            {
-              "text": "太上说中斗大魁保命妙经",
-              "collapsed": true,
-              "link": "洞神部/本文类/太上说中斗大魁保命妙经"
-            },
-            {
-              "text": "太上说中斗大魁掌算伏魔神咒经",
-              "collapsed": true,
-              "link": "洞神部/本文类/太上说中斗大魁掌算伏魔神咒经"
-            },
-            {
-              "text": "太上说十炼生神救护经",
-              "collapsed": true,
-              "link": "洞神部/本文类/太上说十炼生神救护经"
-            },
-            {
-              "text": "太上说南斗六司延寿度人妙经",
-              "collapsed": true,
-              "link": "洞神部/本文类/太上说南斗六司延寿度人妙经"
-            },
-            {
-              "text": "太上说紫微神兵护国消魔经",
-              "collapsed": true,
-              "link": "洞神部/本文类/太上说紫微神兵护国消魔经"
-            },
-            {
-              "text": "太上说西斗记名护身妙经",
-              "collapsed": true,
-              "link": "洞神部/本文类/太上说西斗记名护身妙经"
-            },
-            {
-              "text": "太上说轮转五道宿命因缘经",
-              "collapsed": true,
-              "link": "洞神部/本文类/太上说轮转五道宿命因缘经"
-            },
-            {
-              "text": "太上飞步五星经",
-              "collapsed": true,
-              "link": "洞神部/本文类/太上飞步五星经"
-            },
-            {
-              "text": "太上飞步南斗太微玉经",
-              "collapsed": true,
-              "link": "洞神部/本文类/太上飞步南斗太微玉经"
-            },
-            {
               "text": "无上妙道文始真经-周-尹喜",
               "collapsed": true,
               "link": "洞神部/本文类/无上妙道文始真经-周-尹喜"
             },
             {
-              "text": "玄天上帝说报父母恩重经",
-              "collapsed": true,
-              "link": "洞神部/本文类/玄天上帝说报父母恩重经"
-            },
-            {
               "text": "西升经-宋-宋徽宗",
               "collapsed": true,
               "link": "洞神部/本文类/西升经-宋-宋徽宗"
+            },
+            {
+              "text": "玄天上帝说报父母恩重经",
+              "collapsed": true,
+              "link": "洞神部/本文类/玄天上帝说报父母恩重经"
             }
           ]
         },
